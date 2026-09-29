@@ -1,2 +1,3 @@
 # ejemploGithubRepo
-Un ejemplo
+Un ejemplo que modifico
+* Ejercicio clase 2
